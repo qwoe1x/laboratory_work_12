@@ -1,4 +1,4 @@
-## Laboratory_work_10
+## Laboratory_work_12
 
 Інформатика. Лабораторна робота 12
 
